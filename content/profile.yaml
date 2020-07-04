@@ -14,10 +14,10 @@
     Elisheba is a constant learner and that thrives on learning new things through solving problems. While she is proficient with several languages including JavaScript/ReactJS and Ruby on Rails, her main focus is on Java Spring. Using her experience in professional environments building features, investigating bugs and interacting with stakeholders, she is able to solve technical problems with a business lens when developing software for users.
   skills:
     - JavaScript
-    - Java
+    - SpringBoot
     - React
     - Ruby on Rails
-    - SpringBoot
+    - Java
     - Docker
   tools:
     - Eclipse
