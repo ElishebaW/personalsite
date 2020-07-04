@@ -1,0 +1,30 @@
+- name: Local House Listings
+  url: https://github.com/ElishebaW/my_house_listings
+  description: Displays house listings in your area.
+  status: in progress
+  tags:
+    - JavaScript
+    - Gatsby
+    - React
+  icon: github
+  image: images/project.jpg
+
+- name: Maintenance Requests
+  url: https://github.com/ElishebaW/maintenance
+  description: Site to allow tenants to make maintence requests.
+  status: in progress
+  tags:
+    - JavaScript
+    - HTML
+    - React
+  icon: website
+  image: images/project.jpg
+
+- name: I speak!
+  url: https://www.youtube.com/watch?v=0YkNVkSjDIc
+  description: NationJS React 2018 - Leveling up through Code Reviews
+  status: live
+  tags:
+    - Speaking
+  icon: website
+  image: images/speaking.jpg
