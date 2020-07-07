@@ -11,14 +11,11 @@
   focus: Gaining a deeper understanding of React and Springboot while making a positive impact for my company.
   focus_url: https://gatsbyjs.org
   about: |
-    Elisheba is a constant learner and that thrives on learning new things through solving problems. While she is proficient with several languages including JavaScript/ReactJS and Ruby on Rails, her main focus is on Java Spring. Using her experience in professional environments building features, investigating bugs and interacting with stakeholders, she is able to solve technical problems with a business lens when developing software for users.
+    Elisheba is a constant learner and that thrives on learning new things through solving problems. While she is proficient with several languages including Ruby on Rails, her main focus is on JavaScript/ReactJS and Java/SpringBoot. Using her experience in professional environments building features, investigating bugs and interacting with stakeholders, she is able to solve technical problems with a business lens when developing software for users. Click on the Linkedin icon below to learn more.
   skills:
-    - JavaScript
-    - SpringBoot
-    - React
+    - Java/SpringBoot
+    - JavaScript/ReactJS
     - Ruby on Rails
-    - Java
-    - Docker
   tools:
     - Eclipse
     - VSCode
