@@ -1,6 +1,6 @@
 - name: Local House Listings
   url: https://github.com/ElishebaW/my_house_listings
-  description: Displays house listings in your area.
+  description: Web application that displays house listings in your area.
   status: in progress
   tags:
     - JavaScript
@@ -11,7 +11,7 @@
 
 - name: Maintenance Requests
   url: https://github.com/ElishebaW/maintenance
-  description: Site to allow tenants to make maintence requests.
+  description: CRUD web application that allows tenants and landlords to create, update and delete maintenance requests.
   status: in progress
   tags:
     - JavaScript
