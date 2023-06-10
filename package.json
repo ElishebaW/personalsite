@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^1.0.9",
-    "gatsby": "^2.23.20",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-twitter": "^2.3.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
